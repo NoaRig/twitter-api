@@ -1,0 +1,52 @@
+Ray Crane (group leader) →  rtcrane@g.clemson.edu
+Noah Rigsby → nrigsby@g.clemson.edu
+Jonathan Corder → jcorder@g.clemson.edu
+
+PROJECT PROPOSAL: Cyber-hostilities in the COVID-19 Era
+
+1. Topic: 	
+Cyber-hostilities are not unique to the climate produced by COVID-19, nor the climate that already existed pre-COVID-19. 
+Rather, these hostilities have been exacerbated and have produced a tangible, cyber threat that needs to be understood before any form of preventative measure 
+might be developed and put in place. The one platform on which these hostilities are most visible is Twitter; this visibility can be examined by utilizing Twitter’s 
+API to automatically aggregate tweets following particular hashtags.(Ferrara, Vidgen et al.) Twitter’s API combined with machine learning algorithms can be used to 
+better understand how events, social interactions, and social influence can shift mindsets and produce hateful messages in the wake of large scale events such as 
+COVID. With several data sets, some contrived by us and some by others, we plan to show not only how to recognize hate speech but potentially how to stop its 
+propagation by not only common users of the platform but also botnets.(Banda, Juan M., et al.)
+
+2. Milestones:
+	a.) Collect a Twitter Dataset using Twitter’s API and datasets collected from other published works. This may have to be done over several weeks as more tweets come out.
+	b.) Analyze & filter data collected from Twitter’s API to be usable with our machine learning algorithms
+	c.) Produce Statistics such as “How many retweets”, “how many original tweets”, etc. This is where we use frequency analysis in order to determine statistical data.
+	d.) Contextual analysis of Tweets(I.e., automatic detection of hostilities) and reassessed by the team for accuracy along with the automation process. 
+	e.) Conclude a Defense on our findings, how well we were able to find hate speech and what we see as a reasonable solution
+
+3. Timeline:
+	
+	Sept.  18th - Twitter Dataset collected(Potentially an ongoing process)
+	Sept.  25th - Twitter Dataset statistics collected
+	Oct.   12th - Analysis of Statistics completed
+	Oct.   19th - Report on Statistics completed
+	Nov.   2nd - First part of Contextual Analyzation complete
+	Nov.     9th - Second part of Contextual Analyzation complete
+             Nov.   16th - Summarization of Contextual Analysis complete
+             Nov.   23rd - Report on Contextual Analysis
+             Nov.   30th - Conclusory Report, Remarks on Automatic Detection
+	
+
+4. Citation:
+Banda, Juan M., et al. “A Large-Scale COVID-19 Twitter Chatter Dataset for Open Scientific Research - an International Collaboration.” Zenodo, 21 June 2020, 				
+zenodo.org/record/3902855. 
+
+Davis N., Pipikaite A. “What COVID-19 Teaches Us about Cybersecurity – and How to Prepare for the Inevitable Global Cyberattack.” World Economic Forum, 				
+www.weforum.org/agenda/2020/06/covid-19-pandemic-teaches-us-about
+-cybersecurity-cyberattack-cyber-pandemic-risk-virus/
+
+Ferrara, Emilio. “#COVID-19 ON TWITTER: BOTS, CONSPIRACIES, AND SOCIAL MEDIA 
+ACTIVISM.” Arxiv.org, 2020, arxiv.org/vc/arxiv/papers/2004/2004.09531v1.pdf. 
+
+Mačák K., Rodenhäuser T.,  Gisel L. “Cyber Attacks against Hospitals and the COVID-19 	
+Pandemic: How Strong Are International Law Protections?” Humanitarian Law & Policy 
+Blog, 16 Apr. 2020, blogs.icrc.org/law-and-policy/2020/04/02/cyber-attacks-hospitals-covid-19/.
+
+Vidgen, B, et al. “Detecting East Asian Prejudice on Social Media.” Arxiv.org, 2020,	
+arxiv.org/pdf/2005.03909.pdf.
